@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** React, Vue.js, Vite, Material UI, Redux
+- **Frontend:** React, Vue.js, Vite, Material UI, Redux, Tailwind CSS
 - **Backend:** Node.js, Express.js, VB.NET
 - **Database:** MySQL
 - **Dev Tools:** Git, GitHub, Azure, Visual Studio Code
